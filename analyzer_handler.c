@@ -10,5 +10,5 @@ void main()
 	fun1();
 	
 	//bug
-	print("bug");
+	printf("bug");
 }
