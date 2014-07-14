@@ -12,7 +12,8 @@ void main()
 {
 	fun1();
 	fun2();
-	
+		
 	//bug
- 	print("bug");
+	printf("bug");
+	
 }
