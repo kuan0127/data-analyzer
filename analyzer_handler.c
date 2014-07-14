@@ -11,6 +11,7 @@ void fun2()
 void main()
 {
 	fun1();
+	fun2();
 	
 	//bug
  	print("bug");
