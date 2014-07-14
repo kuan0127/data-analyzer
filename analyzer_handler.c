@@ -8,4 +8,7 @@ void fun1()
 void main()
 {
 	fun1();
+	
+	//bug
+	print("bug");
 }
